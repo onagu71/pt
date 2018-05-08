@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Party together", "Assembly-CSharp.csproj", "{B04AEAC8-441E-D469-5D1F-29D25C8FD808}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Party together", "Party together.csproj", "{6E267334-19C3-5981-7539-AA6FBD2FB56C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B04AEAC8-441E-D469-5D1F-29D25C8FD808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B04AEAC8-441E-D469-5D1F-29D25C8FD808}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B04AEAC8-441E-D469-5D1F-29D25C8FD808}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B04AEAC8-441E-D469-5D1F-29D25C8FD808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E267334-19C3-5981-7539-AA6FBD2FB56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E267334-19C3-5981-7539-AA6FBD2FB56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E267334-19C3-5981-7539-AA6FBD2FB56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E267334-19C3-5981-7539-AA6FBD2FB56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

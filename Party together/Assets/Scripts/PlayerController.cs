@@ -24,7 +24,7 @@ public class PlayerController : NetworkBehaviour {
 		}
 	}
 
-
+    [Command]
 	void CmdFire()
 	{
 		var bullet = (GameObject)Instantiate (
